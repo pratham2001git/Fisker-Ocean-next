@@ -5,7 +5,7 @@ function HomePage() {
     {/* {HEADER} */}
  <div className="bg-stone-200">
   <p className="text-center font-semibold py-2">
-        All electric &#xb7 • Dynamic &#xb7 • Driver Range</p>
+        All electric &#xb7; • Dynamic &#xb7; • Driver Range</p>
       
     </div>
     <header className="flex justify-between px-10 py-3">
