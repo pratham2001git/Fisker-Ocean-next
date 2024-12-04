@@ -9,7 +9,7 @@ function HomePage() {
       <main className="flex flex-col sm:flex-row justify-between md:gap-4">
         <section className="w-full md:w-3/4 p-2">
           {" "}
-          <Preview />
+          <Preview  color="Sun Soaked" interior="white" wheel="SlipStream Black" />
         </section>
         <aside className="w-full md:w-1/4"><Configurator /></aside>
       </main>
